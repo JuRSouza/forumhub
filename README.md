@@ -2,7 +2,6 @@
 
 ![Badge Spring](https://img.shields.io/badge/Spring%20Boot-3.0.0-brightgreen?logo=springboot)
 ![Badge Java](https://img.shields.io/badge/Java-17-orange?logo=java)
-![Badge License](https://img.shields.io/badge/license-MIT-blue)
 ![Badge Build](https://img.shields.io/badge/build-passing-brightgreen)
 ![Badge Status](https://img.shields.io/badge/status-Em%20desenvolvimento-yellow)
 ![Badge Coverage](https://img.shields.io/badge/coverage-100%25-success)
